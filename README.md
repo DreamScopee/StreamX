@@ -146,9 +146,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [Ameen Ansari](DreamScope)
 
-Project Link: [https://github.com/yourusername/streamx](https://github.com/yourusername/streamx)
+Project Link: [[https://github.com/yourusername/streamx](https://github.com/DreamScopee/StreamX)]
 
 ---
 
